@@ -1,0 +1,7 @@
+/**
+ * jquery.color.js 更新履歴
+ */
+
+■jquery.color.js 0.1.0b1 (2013/9/23)
+
+- 初回リリース。
